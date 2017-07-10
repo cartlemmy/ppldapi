@@ -1,0 +1,5 @@
+data/*
+out
+modules/*/data/*
+modules/*/last-active
+modules/*/wait-to-init
